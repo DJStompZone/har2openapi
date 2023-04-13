@@ -25,7 +25,7 @@
     "@openapi-contrib/json-schema-to-openapi-schema": "^1.2.0",
     "deepmerge": "^4.2.2",
     "js-yaml": "^3.13.1",
-    "json-schema-deref-sync": "^0.13.0",
+    "json-schema-deref-sync": "^0.14.0",
     "json-schema-generator": "^2.0.6",
     "parse-json": "^5.0.0",
     "pluralize": "^8.0.0",
