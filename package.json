@@ -30,7 +30,7 @@
     "parse-json": "^5.0.0",
     "pluralize": "^8.0.0",
     "quicktype": "^15.0.240",
-    "quicktype-core": "^6.0.62",
+    "quicktype-core": "^6.1.12",
     "recursive-readdir": "^2.2.2",
     "sort-json": "^2.0.0"
   }
